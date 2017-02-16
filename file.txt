@@ -1,0 +1,11 @@
+programm var
+a,b: int,c: bool;
+begin
+write(vveditena);
+read(ab);
+c := a*a or b*b;
+if a>b then begin a:=4 end else f:=4;
+begin
+write(c);
+end;
+end
